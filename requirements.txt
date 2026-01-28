@@ -1,0 +1,7 @@
+pinecone
+PyPDF2
+python-docx
+langchain_text_splitters
+sentence_transformers
+python-dotenv
+streamlit
