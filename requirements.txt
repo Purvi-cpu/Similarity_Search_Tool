@@ -1,4 +1,4 @@
-pinecone
+pinecone-client
 PyPDF2
 python-docx
 langchain_text_splitters
